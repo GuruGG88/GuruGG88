@@ -4,7 +4,7 @@
     <h1>Hello there👋, I'm Shubham Auti</h1>
     <!-- Add more details about yourself here -->
 </div>
-- 🔭 I’m currently working on Web dwvelopment Projects.
+- 🔭 I’m currently working on Web development Projects.
 
 <div id="skills">
     <h2>Skills</h2>
