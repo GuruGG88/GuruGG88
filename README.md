@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-    <h1>Hello there👋, I'm Shubham Auti</h1>
+    <h1>Hello there👋, I'm Shubham</h1>
     <!-- Add more details about yourself here -->
 </div>
 - 🔭 I’m currently working on Web development Projects.
