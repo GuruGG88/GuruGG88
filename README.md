@@ -12,7 +12,7 @@
         <li>HTML</li>
         <li>CSS</li>
         <li>JavaScript</li>
-        <!-- Add more skills here -->
+        
     </ul>
 </div>
 <div id="devicons">
